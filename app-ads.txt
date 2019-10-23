@@ -1,9 +1,10 @@
+# admob
 google.com, pub-7838252230258105, DIRECT, f088c47fec942fa0
-
+# applovin
 applovin.com, 09c6ae37b481907e12fa0c9d7d19fd23, DIRECT
 adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
 rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
-
+# vungle
 vungle.com, 5923a19db704efdb13000b0c, DIRECT, c107d686becd2d77
 openx.com, 540280728, RESELLER, 6a698e2ec38604c6
 appnexus.com, 10128, RESELLER, f5ab79cb980f11d1
@@ -11,7 +12,7 @@ indexexchange.com, 185774, RESELLER, 50b1c356f2c5c8fc
 inmobi.com, 2e0484e00bf84f35b133019004ef76a4, RESELLER, 83e75a7ae333ca9d
 loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 10999, RESELLER, 6c8d5f95897a5a3b
-
+# unityads
 unity3d.com, 1250521, DIRECT, 96cabb5fbdde37a7
 telaria.com, rwd19-1250521, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-1250521, RESELLER, 1a4e959a1b50034a
