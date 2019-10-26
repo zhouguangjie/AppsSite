@@ -91,4 +91,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/zhouguangjie/AppsSite
-  branch: master
+  branch: www
