@@ -1,3 +1,4 @@
+# 2020-08-01
 # admob
 google.com, pub-7838252230258105, DIRECT, f088c47fec942fa0
 # applovin
@@ -17,10 +18,13 @@ spotx.tv, 117872, RESELLER, 7842df1d2fe2db34
 openx.com, 540871654, RESELLER, 6a698e2ec38604c6
 rubiconproject.com, 20014, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 21526, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20050, RESELLER, 0bfd66d529a55807
 reforge.in, 107, RESELLER
 velismedia.com, 725, RESELLER
 appnexus.com, 7353, RESELLER
 xandr.com, 7353, RESELLER
+algorix.co, 54616, RESELLER
 google.com, pub-9747826079690532, RESELLER
 telaria.com, rwd19-1250521, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-1250521, RESELLER, 1a4e959a1b50034a
