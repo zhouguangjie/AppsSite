@@ -1,4 +1,4 @@
-# 2020-08-01
+# 2020-11-20
 # admob
 google.com, pub-7838252230258105, DIRECT, f088c47fec942fa0
 # applovin
