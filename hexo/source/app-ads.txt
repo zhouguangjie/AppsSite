@@ -1,4 +1,4 @@
-# 2020-11-20
+# 2021-05-29
 # admob
 google.com, pub-7838252230258105, DIRECT, f088c47fec942fa0
 # applovin
@@ -40,6 +40,13 @@ lemmatechnologies.com, 362, RESELLER
 google.com, pub-9747826079690532, RESELLER
 telaria.com, rwd19-1250521, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-1250521, RESELLER, 1a4e959a1b50034a
+pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
+webeyemob.com, 70097, RESELLER
+appads.in, 106246, RESELLER
+indexexchange.com, 194080, RESELLER, 50b1c356f2c5c8fc
+bidmachine.io, 113, RESELLER
+rhythmone.com, 3630748062, RESELLER, a670c89d4a324e47
+video.unrulymedia.com, 3630748062, RESELLER, a670c89d4a324e47
 # vungle
 vungle.com, 5923a19db704efdb13000b0c, DIRECT, c107d686becd2d77
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
