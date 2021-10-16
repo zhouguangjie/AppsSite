@@ -47,6 +47,22 @@ indexexchange.com, 194080, RESELLER, 50b1c356f2c5c8fc
 bidmachine.io, 113, RESELLER
 rhythmone.com, 3630748062, RESELLER, a670c89d4a324e47
 video.unrulymedia.com, 3630748062, RESELLER, a670c89d4a324e47
+pokkt.com, 7606, RESELLER, c45702d9311e25fd
+pubmatic.com, 160846, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156494, RESELLER, 5d62403b186f2ace
+openx.com, 540838151, RESELLER, 6a698e2ec38604c6
+openx.com, 541031350, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 14334, RESELLER, 0bfd66d529a55807
+reforge.in, 353, RESELLER
+appnexus.com, 2764, RESELLER
+appnexus.com, 10617, RESELLER
+appnexus.com, 9393, RESELLER
+lemmatechnologies.com, 362, RESELLER, 7829010c5bebd1fb
+appads.in, 107606, RESELLER
+indexexchange.com, 194730, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 186684, RESELLER, 50b1c356f2c5c8fc
+contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
+inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d
 # vungle
 vungle.com, 5923a19db704efdb13000b0c, DIRECT, c107d686becd2d77
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
