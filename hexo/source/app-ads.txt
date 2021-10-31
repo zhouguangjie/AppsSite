@@ -1,4 +1,4 @@
-# 2021-10-16
+# 2021-10-31
 # admob
 google.com, pub-7838252230258105, DIRECT, f088c47fec942fa0
 # applovin
