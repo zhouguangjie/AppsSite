@@ -6,11 +6,10 @@ applovin.com, 09c6ae37b481907e12fa0c9d7d19fd23, DIRECT
 adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
 rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
 openx.com, 540785403, RESELLER, 6a698e2ec38604c6
-indexexchange.com, 191086, RESELLER
-pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007170, RESELLER, d641df8625486a7b
-Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
-indexexchange.com, 191086, RESELLER
+verve.com, 15290, RESELLER, 0c8f5958fc2d6270
+indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8fc
 # unityads
 unity.com, 1250521, DIRECT, 96cabb5fbdde37a7
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
@@ -65,6 +64,19 @@ contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
 inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d
 exchange.admazing.co, AM3, RESELLER
 meitu.com, 282, RESELLER
+bidmachine.io, 114, RESELLER
+bidmachine.io, 67, RESELLER
+liftoff.io, 7f6945815e6, RESELLER
+yandex.com, 40427798, RESELLER
+bidease.com, exchange-20, RESELLER
+criteo.com, B-057955, RESELLER, 9fac4a4a87c2a44f
+mintegral.com, 10038, RESELLER
+inmobi.com, 062029933580429f9920bad476d8d70a, RESELLER, 83e75a7ae333ca9d
+yeahmobi.com, 5135195, RESELLER
+admixplay.com, 2012, RESELLER
+loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
+pubmatic.com, 161372, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
 # vungle
 vungle.com, 5923a19db704efdb13000b0c, DIRECT, c107d686becd2d77
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
@@ -180,3 +192,5 @@ loopme.com, 11281, RESELLER, 6c8d5f95897a5a3b
 olaex.biz,100023,RESELLER
 pubmatic.com, 158271, RESELLER, 5d62403b186f2ace
 kubient.com, 5eb2cb089c866, RESELLER, 4f12311e6ed900a3
+# Facebook
+facebook.com, 1352859738182234, RESELLER, c3e20eee3f780d68
