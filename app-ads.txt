@@ -1,15 +1,14 @@
-# 2022-04-22
+# 2023-05-21
 # admob
-google.com, pub-7838252230258105, DIRECT, f088c47fec942fa0
+google.com, pub-7838252230258105, DIRECT, f08c47fec0942fa0
 # applovin
 applovin.com, 09c6ae37b481907e12fa0c9d7d19fd23, DIRECT
-adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
-rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
-openx.com, 540785403, RESELLER, 6a698e2ec38604c6
-pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
-pubnative.net, 1007170, RESELLER, d641df8625486a7b
-verve.com, 15290, RESELLER, 0c8f5958fc2d6270
-indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8fc
+loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+xandr.com, 13799, RESELLER
+media.net, 8CUD06Z68, RESELLER
+pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
 # unityads
 unity.com, 1250521, DIRECT, 96cabb5fbdde37a7
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
