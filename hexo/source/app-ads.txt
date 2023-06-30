@@ -1,4 +1,4 @@
-# 2023-05-21
+# 2023-06-30
 # admob
 google.com, pub-7838252230258105, DIRECT, f08c47fec0942fa0
 # applovin
@@ -148,6 +148,7 @@ xandr.com, 8804, RESELLER, f5ab79cb980f11d1
 Xapads.com, 117219, RESELLER
 yandex.com, 95746987, RESELLER
 yandex.com, 97539269, RESELLER
+pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
 # vungle
 vungle.com, 5923a19db704efdb13000b0c, DIRECT, c107d686becd2d77
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
