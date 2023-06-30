@@ -1,4 +1,4 @@
-# 2023-05-21
+# 2023-06-30
 # admob
 google.com, pub-7838252230258105, DIRECT, f08c47fec0942fa0
 # applovin
