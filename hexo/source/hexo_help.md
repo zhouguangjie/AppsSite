@@ -1,6 +1,6 @@
 ---
 title: hexo帮助
-date: 2025-06-01 14:03:01
+date: 2025-06-23 18:06:01
 layout: hexo帮助
 ---
 # 教程
@@ -12,13 +12,13 @@ layout: hexo帮助
 进入工作目录  
 `cd gameswebsite`
 
-gernerate website  
+生成网站  
 `hexo g`
 
-deploy  
+部署网站  
 `hexo d`
 
-generate and deploy  
+一键生成与部署  
 `hexo g -d`
 
 # 更新hexo版本
