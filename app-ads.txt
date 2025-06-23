@@ -1,4 +1,4 @@
-# 2025-06-01
+# 2025-06-23
 # admob start
 google.com, pub-7838252230258105, DIRECT, f08c47fec0942fa0
 # admob end
@@ -333,6 +333,18 @@ xandr.com, 8916, RESELLER
 xandr.com, 3318, RESELLER
 xandr.com, 13799, RESELLER
 zetaglobal.net, 815, RESELLER
+zmaticoo.com, 5135063, RESELLER
+google.com, pub-1682595508078257, RESELLER, f08c47fec0942fa0
+bidmachine.io, 113, RESELLER
+pubmatic.com, 164798, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 26360, RESELLER, 0bfd66d529a55807
+copper6.com, 766114, RESELLER
+improvedigital.com, 2534, RESELLER
+pubmatic.com, 166078, RESELLER, 5d62403b186f2ace
+lijit.com, 558045, RESELLER, fafdf38b16bf6b2b
+improvedigital.com, 2609, RESELLER
+xandr.com, 16546, RESELLER
+video.unrulymedia.com, 389957698, RESELLER
 # unityads end
 # vungle start
 vungle.com, 5923a19db704efdb13000b0c, DIRECT, c107d686becd2d77
