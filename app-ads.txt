@@ -345,6 +345,11 @@ lijit.com, 558045, RESELLER, fafdf38b16bf6b2b
 improvedigital.com, 2609, RESELLER
 xandr.com, 16546, RESELLER
 video.unrulymedia.com, 389957698, RESELLER
+opera.com, pub6843437470464, RESELLER, 55a0c5fd61378de3
+pubnative.net, 1007485, RESELLER, d641df8625486a7b
+rubiconproject.com, 16834, RESELLER, 0bfd66d529a55807
+loopme.com, 15629, RESELLER, 6c8d5f95897a5a3b
+opera.com, pub7275292332480, RESELLER, 55a0c5fd61378de3
 # unityads end
 # vungle start
 vungle.com, 5923a19db704efdb13000b0c, DIRECT, c107d686becd2d77
